@@ -1,0 +1,5 @@
+create tests for the new implementations in String Calculator.
+multiple tests to make sure every edge case is covered.
+Then start coding to cover the new requirements.
+Test new code.
+refactor if needed.
